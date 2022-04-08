@@ -597,14 +597,14 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -70.9273,
-            42.0604
+            -83.4833,
+            42.4311
           ]
         },
         "type": "Feature",
         "properties": {
           "category": "mapheart",
-          "name": "Northville, MA",
+          "name": "Northville, MI",
           "place_id": "",
           "slug": ""
         }
