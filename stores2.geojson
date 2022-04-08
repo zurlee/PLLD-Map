@@ -624,6 +624,22 @@
           "place_id": "",
           "slug": ""
         }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.1398,
+            36.1699
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Las Vegas, NV",
+          "place_id": "",
+          "slug": ""
+        }
       }
     ]
   }
