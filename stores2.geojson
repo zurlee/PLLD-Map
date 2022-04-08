@@ -544,6 +544,86 @@
           "place_id": "",
           "slug": ""
         }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.639999,
+            27.773056
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "St. Petersburg, Fl",
+          "place_id": "",
+          "slug": ""
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.312431,
+            29.901243
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "St. Augustine, Fl",
+          "place_id": "",
+          "slug": ""
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.732124,
+            42.279594
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Ann Arbor, MI",
+          "place_id": "",
+          "slug": ""
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.9273,
+            42.0604
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Northville, MA",
+          "place_id": "",
+          "slug": ""
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.8503,
+            35.7327
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Apex, NC",
+          "place_id": "",
+          "slug": ""
+        }
       }
     ]
   }
