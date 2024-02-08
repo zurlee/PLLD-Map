@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.0379,
+            41.4497
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Avon, OH",
+          "place_id": "ChIJbTUJs2WRMIgRiDCQOlIHO0k",
+          "slug": "avon"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.97576793558197,
+            40.34967343639555
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Baldwin, PA",
+          "place_id": "ChIJhcncwJT5NIgR5dhUDsGKeFs",
+          "slug": "baldwin"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.78998297668647,
+            36.03205338426978
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Brentwood, TN",
+          "place_id": "ChIJp9pdOpV7ZIgRK8ttAtLC1Do",
+          "slug": "brentwood"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.69633810552254,
+            42.95606095036955
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Buffalo, NY",
+          "place_id": "ChIJ0b7PwtJ104kRmZoQ_TLZtcI",
+          "slug": "buffalo"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.56549603558199,
+            40.88265806246053
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Canal Fulton, OH",
+          "place_id": "ChIJ1a41e1wpN4gR0UphQlfy3Hk",
+          "slug": "canal-fulton"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.67879736441803,
+            38.34037676516293
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Charleston, WV",
+          "place_id": "ChIJPdXOIz0tT4gRYmG5SR_kXNg",
+          "slug": "charleston"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.81716234907381,
+            41.45109240501889
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Cleveland, OH",
+          "place_id": "ChIJFy3yPp_tMIgRjQ1XPs-bqaM",
+          "slug": "cleveland"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.23920326256561,
+            41.65330414502881
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Concord, OH",
+          "place_id": "ChIJxxlakOuhMYgRe7aOngF8Idk",
+          "slug": "concord"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.1343479375038,
+            30.455672015751478
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Covington, OH",
+          "place_id": "ChIJ6dBB5OhdJ4YRt8g5lC0OUQQ",
+          "slug": "covington"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.10512140940094,
+            40.69255877903247
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Cranberry Twp, PA",
+          "place_id": "ChIJez5OYaxiNIgRSIYo6KxpT8E",
+          "slug": "cranberry-twp"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.66434651045074,
+            38.972866952328
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Florence, KY",
+          "place_id": "ChIJBXopA_bHQYgRiWEGY5cN5EU",
+          "slug": "florence"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.07681989388313,
+            40.578852712550486
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Fort Collins, CO",
+          "place_id": "ChIJiepdpPdKaYcRuBGNSWr4H8Y",
+          "slug": "fort-collins"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.46655180183505,
+            40.960323538702916
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Green, OH",
+          "place_id": "ChIJK9hLBNTUNogRKk-urPljr8M",
+          "slug": "green"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.1569166932541,
+            41.13852968512107
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Grove City, PA",
+          "place_id": "ChIJL4Vh8hyfM4gR6WWvcPJv4ew",
+          "slug": "grove-city"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.3317427245369,
+            40.963743184743116
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Hartville, OH",
+          "place_id": "ChIJXxTznq8yMYgRqqzhz-G3stw",
+          "slug": "hartville"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.43987829510651,
+            41.23785808414639
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Hudson, OH",
+          "place_id": "ChIJZZdWs3AhMYgRvDwEXqgfzRs",
+          "slug": "hudson"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.44313710674592,
+            39.13897491545023
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Hyde Park, OH",
+          "place_id": "ChIJtX47oDezQYgR0HV9lwy076U",
+          "slug": "hyde-park"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.02677359570083,
+            40.40672889126831
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Loveland, CO",
+          "place_id": "ChIJ1QqwUnStbocRFJgfL2kccnM",
+          "slug": "loveland"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.51769768220902,
+            40.814147491033566
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Massillon, OH",
+          "place_id": "ChIJwfg_EgIoN4gR_soozLg7YSg",
+          "slug": "massillon"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.9435772705696,
+            39.653063503127164
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Morgantown, WV",
+          "place_id": "ChIJ6QOFcRZ7NYgRYnwENVjXSmg",
+          "slug": "morgantown"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.94027179325408,
+            33.668384019265346
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Myrtle Beach, SC",
+          "place_id": "ChIJCQrNChBqAIkRYWYLW2csFiA",
+          "slug": "myrtle-beach"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.79927887546312,
+            26.178501810610012
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Naples, FL",
+          "place_id": "ChIJc2ku_Ofh2ogRbi4_-oj8bh4",
+          "slug": "naples"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.39555778773155,
+            40.863465873868535
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "North Canton, OH",
+          "place_id": "ChIJc1muwW3RNogRITo24K6Vvm0",
+          "slug": "north-canton"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.31062452209015,
+            40.250991442125816
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Peters Twp, PA",
+          "place_id": "ChIJ9fLkOFlVNIgRpTRhZuBtrw8",
+          "slug": "peters-township"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.58910390859832,
+            42.22877674943368
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Portage, MI",
+          "place_id": "ChIJLVFNsAmeF4gRjTVITJjJRe4",
+          "slug": "north-canton"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.14411053372955,
+            40.446606147287355
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Robinson Twp, PA",
+          "place_id": "ChIJHXSD3SdZNIgRLbYNsFQf0Gk",
+          "slug": "robinson-township"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.14254488220901,
+            32.940257606120504
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Southlake, TX",
+          "place_id": "ChIJL7d6yF3UTYYRajd6aJFtm4w",
+          "slug": "southlake"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.9838425687172,
+            40.45211925060889
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Strip District, PA",
+          "place_id": "ChIJ4UfTPd3zNIgR34mdMng6L5A",
+          "slug": "strip-district"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.83603336567612,
+            41.315995879696665
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Strongsville, OH",
+          "place_id": "ChIJ07HyMl_rMIgRhaGc732ZG4g",
+          "slug": "strongsville"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.61402466441803,
+            44.76422691795747
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Traverse City, MI",
+          "place_id": "ChIJQQjnSqYyHogRRwyQLzDstiE",
+          "slug": "traverse-city"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.01123598220902,
+            36.75237023798855
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Virginia Beach, VA",
+          "place_id": "ChIJozcgCx_BuokR4zRHlUdQGRM",
+          "slug": "virginia-beach"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.05737410859832,
+            40.630043873859144
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Wexford, PA",
+          "place_id": "ChIJ-wPGY5-JNIgRAQzUTGCPhcQ",
+          "slug": "wexford"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.01798453131751,
+            40.087281623464015
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Worthington, OH",
+          "place_id": "ChIJHXSD3SdZNIgRLbYNsFQf0Gk",
+          "slug": "worthington"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.379234,
+            28.538336
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "mapheart",
+          "name": "Orlando, Fl",
+          "place_id": "",
+          "slug": ""
+        }
+      }
+    ]
+  }
